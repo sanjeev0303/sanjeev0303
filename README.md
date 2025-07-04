@@ -119,18 +119,6 @@ I'm a passionate **Full-Stack Web Developer** with expertise in modern web techn
   <a href="https://github.com/sanjeev0303">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeev0303&repo=opexn&theme=tokyonight&hide_border=true" alt="OPEXN Repository" />
   </a>
-  <a href="https://github.com/sanjeev0303">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeev0303&repo=finance-management&theme=tokyonight&hide_border=true" alt="Finance Management Repository" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/sanjeev0303">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeev0303&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio Repository" />
-  </a>
-  <a href="https://github.com/sanjeev0303">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeev0303&repo=web-development-projects&theme=tokyonight&hide_border=true" alt="Web Development Projects" />
-  </a>
 </div>
 
 ---
