@@ -1,102 +1,210 @@
-<!-- Improved README.md for Preetam's Profile -->
-
-<h1 align="center">👋 Hey, I’m <strong>Sanjeev</strong></h1>
-<p align="center"><em>A full-stack dev building AI bots, streaming platforms & fintech tools with clean UIs and real-world purpose.</em></p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Sanjeev+%F0%9F%91%8B;Full-Stack+Web+Developer;Building+Amazing+Digital+Experiences" alt="Typing SVG" />
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78F07&center=true&width=600&lines=Builder+of+Vidion,+Grammigo,+Horizonite+Bank;Dark+Mode+Lover+%F0%9F%94%AF;TypeScript+%E2%9D%A4%EF%B8%8F+Next.js+%E2%9C%A8+TailwindCSS" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=sanjeev0303&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sanjeev0303?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **CSE Student** | BihaR, India
-- 🧠 Obsessed with **clean UI**, **streaming tech**, & **AI integrations**
-- 🔥 Builder of **Vidion**, **Grammigo**, **Horizonite Bank**
-- 🌙 Night owl coding in **TypeScript**, **Next.js**, **TailwindCSS**, **Prisma**, **Firebase**, **Streamlit**, **Supabase**
-- 🌟 Passionate about **dark mode**, **interactive UX**, & **mobile-first** design
+I'm a passionate **Full-Stack Web Developer** with expertise in modern web technologies and a love for creating innovative digital solutions. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+
+- 🔭 I'm currently working on **exciting full-stack projects**
+- 🌱 I'm constantly learning and exploring **new technologies**
+- 👯 I'm looking to collaborate on **open source projects**
+- 💬 Ask me about **React, Node.js, JavaScript, and web development**
+- ⚡ Fun fact: **I love debugging as much as I love coding!**
 
 ---
 
-## 🌈 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-4B3263?style=for-the-badge" />
-</p>
+### Frontend
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</div>
 
----
+### Backend
+<div align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</div>
 
-## 🌟 Featured Projects
+### Database & Cloud
+<div align="left">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</div>
 
-| 🏷️ Project | 🔗 Link | 🔧 Tech | ✨ Highlights |
-|:---|:---|:---|:---|
-| **Horizonite Bank** | [Live Demo](https://horizonite-bank.streamlit.app) | Python, Streamlit, Matplotlib | 2FA, Admin Panel, Data Dashboards |
-| **Vidion** | [Watch Live](https://vidion.vercel.app) | Next.js, TailwindCSS, TypeScript | Dark Mode, Mobile UI, Animations |
-| **Vidion AI** | [Try it](https://vidionai.vercel.app) | Next.js, Groq, LLaMA | AI Chatbot, Real-time Q&A |
-| **Navision** | [Stream Now](https://bhaiflix.vercel.app) | Next.js, TMDB API | Netflix-like UI, Streaming API |
-| **Grammigo** | [Explore](https://grammigo.vercel.app) | Next.js, TailwindCSS | Agriculture Tool Booking |
-
----
-
-## 📊 GitHub Stats & Visuals
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-@preetam--90-blue?style=for-the-badge&logo=github" alt="GitHub Username" />
-  <img src="https://img.shields.io/github/followers/preetam-90?style=for-the-badge" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/preetam-90?style=for-the-badge" alt="Stars" />
-  <img src="https://img.shields.io/github/repos/preetam-90?style=for-the-badge" alt="Repos" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preetam-90&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=preetam-90&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetam-90&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=preetam-90&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=preetam-90&theme=radical&no-bg=true&margin-w=10&column=5" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=preetam-90&color=orange&style=flat-square" alt="Profile views" />
-</p>
-
-<p align="center">
-  <!-- Live Demo Badges -->
-  <a href="https://vidion.vercel.app"><img src="https://img.shields.io/badge/Vidion-Live-blueviolet?style=for-the-badge&logo=vercel" /></a>
-  <a href="https://grammigo.vercel.app"><img src="https://img.shields.io/badge/Grammigo-Explore-brightgreen?style=for-the-badge&logo=vercel" /></a>
-  <a href="https://vidionai.vercel.app"><img src="https://img.shields.io/badge/VidionAI-Try--Now-ff69b4?style=for-the-badge&logo=vercel" /></a>
-  <a href="https://bhaiflix.vercel.app"><img src="https://img.shields.io/badge/Navision-Stream--Now-orange?style=for-the-badge&logo=vercel" /></a>
-  <a href="https://horizonite-bank.streamlit.app"><img src="https://img.shields.io/badge/Horizonite--Bank-Launch-red?style=for-the-badge&logo=streamlit" /></a>
-</p>
+### Tools & Technologies
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</div>
 
 ---
 
-## 📫 Connect with Me
+## 📊 GitHub Statistics
 
-<p align="center">
-  <a href="https://github.com/preetam-90"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/preetam-90"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:preetam@engineer.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjeev0303&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeev0303&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev0303&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeev0303&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
 
 ---
 
-> "Code is not just logic — it's storytelling."
-> 
-> — **Preetam**
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanjeev0303&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
 
 ---
 
-⭐️ If you dig my work, don't forget to ⭐️ your favorite repos!
+## 🚀 Featured Projects
+
+### 🌟 Live Applications
+
+<div align="center">
+  
+  **🔗 [OPEXN Platform](https://opexn.vercel.app/)**
+  
+  *A comprehensive web application built with modern technologies*
+  
+  ![OPEXN](https://img.shields.io/badge/Live-OPEXN-success?style=for-the-badge&logo=vercel)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  
+  ---
+  
+  **💰 [Finance Management System](https://finance-management-ebon-iota.vercel.app/)**
+  
+  *A full-stack finance management application with advanced features*
+  
+  ![Finance App](https://img.shields.io/badge/Live-Finance%20App-success?style=for-the-badge&logo=vercel)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  
+</div>
+
+### 📂 Repository Highlights
+
+<div align="center">
+  <a href="https://github.com/sanjeev0303">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeev0303&repo=opexn&theme=tokyonight&hide_border=true" alt="OPEXN Repository" />
+  </a>
+  <a href="https://github.com/sanjeev0303">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeev0303&repo=finance-management&theme=tokyonight&hide_border=true" alt="Finance Management Repository" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/sanjeev0303">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeev0303&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio Repository" />
+  </a>
+  <a href="https://github.com/sanjeev0303">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeev0303&repo=web-development-projects&theme=tokyonight&hide_border=true" alt="Web Development Projects" />
+  </a>
+</div>
+
+---
+
+## 📈 Development Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sanjeev0303&theme=tokyonight&hide_border=true&layout=compact" alt="Coding Time Stats" />
+</div>
+
+<div align="center">
+  <h4>🔥 Current Focus Areas</h4>
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-blue?style=for-the-badge" alt="Frontend Focus" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-green?style=for-the-badge" alt="Backend Focus" />
+  <img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20PostgreSQL-orange?style=for-the-badge" alt="Database Focus" />
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/sanjeev0303" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/sanjeev0303" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://portfolio.sanjeev0303.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:sanjeev0303@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://dev.to/sanjeev0303" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanjeev0303/sanjeev0303/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanjeev0303/sanjeev0303/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sanjeev0303/sanjeev0303/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <h3>💖 Thanks for visiting my profile!</h3>
+  <p>Feel free to reach out if you'd like to collaborate on exciting projects or just want to connect!</p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</div>
+
+
+
