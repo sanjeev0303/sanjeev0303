@@ -145,7 +145,7 @@ I'm a passionate **Full-Stack Web Developer** with expertise in modern web techn
 ## 📈 Development Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sanjeev0303&theme=tokyonight&hide_border=true&layout=compact" alt="Coding Time Stats" />
+  <img src="https://github-readme-streak-stats-eta-bice.vercel.app?user=sanjeev0303&theme=blue-navy&fire=#EB5454FF)](https://git.io/streak-stats" />
 </div>
 
 <div align="center">
