@@ -9,15 +9,19 @@
 
 ---
 
-## 🚀 About Me
+# 👋 Hi, I’m Sanjeev | Full-Stack Web Developer  
 
-I'm a passionate **Full-Stack Web Developer** with expertise in modern web technologies and a love for creating innovative digital solutions. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+🚀 I build **modern, scalable, and visually stunning web applications** that help businesses grow online.  
+From **startups** to **small businesses**, I deliver solutions that are **fast, responsive, and client-focused**.  
 
-- 🔭 I'm currently working on **exciting full-stack projects**
-- 🌱 I'm constantly learning and exploring **new technologies**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **React, Node.js, JavaScript, and web development**
-- ⚡ Fun fact: **I love debugging as much as I love coding!**
+---
+
+## 🔑 What I Do
+- 🌐 **Web Development** – Business websites, portfolios, and landing pages  
+- 🛒 **E-Commerce** – Custom online stores with payment integration  
+- ⚡ **Web Applications** – Scalable apps using React, Next.js, Node.js  
+- ☁️ **Cloud & Deployment** – AWS, Docker, CI/CD pipelines  
+- 🎨 **UI/UX Design** – Tailwind CSS, modern design systems  
 
 ---
 
@@ -62,6 +66,30 @@ I'm a passionate **Full-Stack Web Developer** with expertise in modern web techn
 
 ---
 
+## 🏆 Selected Projects  
+
+### 🌟 [OPEXN Platform](https://opexn.vercel.app/)  
+📈 An **operational expense tracking platform** for businesses.  
+- Multi-user authentication  
+- Real-time analytics  
+- Deployed with Docker & AWS  
+
+---
+
+### 💰 [Finance Management System](https://finance-management-ebon-iota.vercel.app/)  
+A **full-stack finance management tool** for individuals & small businesses.  
+- Transaction history & detailed reports  
+- Clean UI with TailwindCSS  
+- REST API backend  
+
+---
+
+### 🌐 [Portfolio Website](https://galobyte.site)  
+Showcasing my work & client solutions.  
+
+---
+
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -87,31 +115,6 @@ I'm a passionate **Full-Stack Web Developer** with expertise in modern web techn
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌟 Live Applications
-
-<div align="center">
-  
-  **🔗 [OPEXN Platform](https://opexn.vercel.app/)**
-  
-  *A comprehensive web application built with modern technologies*
-  
-  ![OPEXN](https://img.shields.io/badge/Live-OPEXN-success?style=for-the-badge&logo=vercel)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  
-  ---
-  
-  **💰 [Finance Management System](https://finance-management-ebon-iota.vercel.app/)**
-  
-  *A full-stack finance management application with advanced features*
-  
-  ![Finance App](https://img.shields.io/badge/Live-Finance%20App-success?style=for-the-badge&logo=vercel)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  
-</div>
 
 ### 📂 Repository Highlights
 
@@ -135,6 +138,13 @@ I'm a passionate **Full-Stack Web Developer** with expertise in modern web techn
   <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-green?style=for-the-badge" alt="Backend Focus" />
   <img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20PostgreSQL-orange?style=for-the-badge" alt="Database Focus" />
 </div>
+
+---
+
+## 💡 Why Work With Me?  
+✅ End-to-end project delivery (design → deployment)  
+✅ Clear communication & transparent timelines  
+✅ Ongoing support & maintenance  
 
 ---
 
